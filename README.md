@@ -1,4 +1,4 @@
-## Project Title: Code-struction Zone
+# Project Title: Code-struction Zone
 
 **Project Description:** A coding-themed Pomodoro timer app that allows user to not only keeps track of time and their tasks. But also, allows sorting of tasks according to the column header
 
